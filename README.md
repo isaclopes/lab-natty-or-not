@@ -1,51 +1,22 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto explora a hype "Natty or Not" dentro da comunidade de fisiculturismo, utilizando Inteligências Artificiais Generativas para criar conteúdos realistas sobre o tema. O objetivo é analisar como a IA pode replicar discussões populares sobre fisiculturistas que treinam de forma natural (natty) ou com uso de substâncias (não-natty). Além disso, o projeto busca criar textos que se alinhem ao estilo informativo e opinativo encontrado em blogs, vídeos e fóruns sobre o tema.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT: Gerou o conteúdo baseado na hype "Natty or Not".
+DALL·E: Gerou imagens realistas de fisiculturistas com diferentes composições corporais.
+Copilot no Bing: Auxiliou na pesquisa e geração de ideias para o projeto.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pesquisa de contexto: Foi realizada uma pesquisa inicial sobre a hype "Natty or Not" no fisiculturismo, compreendendo as nuances entre fisiculturistas naturais e os que utilizam substâncias.
+Criação de conteúdo: Usando o ChatGPT, foi gerado um texto realista, que imita o estilo dos debates encontrados em fóruns de fisiculturismo. Também foram criadas imagens com DALL·E para ilustrar fisiculturistas com diferentes níveis de musculatura.
+Integração ao projeto: O conteúdo foi formatado e adicionado ao repositório com foco na apresentação estética e na fidelidade ao tema.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O projeto gerou um texto convincente sobre a questão "Natty or Not", criando uma simulação de uma discussão real dentro da comunidade de fisiculturismo. As imagens complementaram o texto, mostrando exemplos visuais das diferentes abordagens ao treinamento. O uso de IAs Generativas permitiu criar uma narrativa coesa e realista.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+## 💭 Reflexão
+Criar algo "natty" com IA foi um desafio interessante, pois é necessário equilibrar a capacidade da IA de gerar conteúdo realista com a necessidade de não exagerar nas suposições sobre o uso de substâncias no fisiculturismo. Foi uma ótima oportunidade para explorar os limites criativos da IA e como ela pode replicar debates culturais com precisão.
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
